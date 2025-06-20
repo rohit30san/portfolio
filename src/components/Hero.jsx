@@ -39,7 +39,7 @@ const Hero = () => {
           View My Work
         </a>
         <a
-          href="/resume.pdf"
+          href="https://rohit-resume-2025.tiiny.site"
           target="_blank"
           rel="noopener noreferrer"
           className="px-6 py-3 border border-accent text-accent rounded-xl font-medium hover:bg-accent hover:text-black transition backdrop-blur-md"
